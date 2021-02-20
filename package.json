@@ -1,0 +1,15 @@
+{
+  "name": "kedifotosu-indirme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "feit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs-file-downloader": "^4.2.0",
+    "snekfetch": "^4.0.4"
+  }
+}
